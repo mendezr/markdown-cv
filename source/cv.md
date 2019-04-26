@@ -1,93 +1,84 @@
 ---
-title: 'Your Name'
-website: http://yourwebsite.com
-street: Street address
-city: City
-postcode: Postal code
-phone: +12 (0)3456 7891011
-email: your.email@address.com
-date: 22 November 2014
+title: 'Raúl Fernando Méndez Turrubiates'
+website:
+street: \faMap Avenida I, No. 146-1
+city: Ensenada, México
+postcode: 22760
+phone: \faPhone +52 (1) 228 1649643
+email: \faMail \href{mailto:raul.mturrubiates@gmail.com}{raul.mturrubiates@gmail.com}
+date: Last update - \today
 ...
 
-### Personal summary
+# Personal summary
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> I am an M.Sc in Physical Oceanography with a B.Sc in Atmospheric Science, my interests are the modeling of the atmosphere (climate/weather), data analysis, recently trying to learn machine learning algorithms. Others activities I enjoy are programing in python, use and promote open source projects.
 
-### Education 
+# Education - Degrees
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+- **M.Sc. Physical Oceanography**, Centro de Investigación Científica Superior de Ensenada (CICESE) (2015 - 2018)
+	- High Resolution (sub 1 km) weather forecasting enhanced with ensembles.
+- **B.A. Atmospheric Science**, Universidad Veracruzana (2013 - 2015)
+	- Implementation and use of a RegCM model for climate studies in Mexico.
 
-### Technical
+# Distinction & Awards
+- Scholarship CEMIE-Oceano (2018).
+- Best presentation for a master student (Atmosphere) Reunión Anual Unión Geofísica (RAUGM). (2017)
+- Scholarship CONACYT programa Nacional de Posgrados de Calidad (PNPC). (2015 - 2017)
+- Scholarship PROMEP para estudios de posgrado de alta calidad. (2014 - 2015)
 
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
+# Undergraduate Supervision
+**Jhoany Hernadez Torales**, Summer internship supervision (2017)
 
-### Employment 
+# Teaching Experience
+**Teaching Assistant (Postgraduate Course)**, Computing in Science (2017)
 
-- 2015: Job title, Company
+# Working Experience
+- **Servicio Meteorológico Nacional**, *External Consultant*, (Apr. 2015 - Aug 2015)
+	- Design of a regional climate model experiment for México and the Caribbean.
+	- Create simulations for a 3 months periods forecast.
+	- Automation of the regional climate experiment.
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- **Consorcio de Investigación del Golfo de México (CIGoM)**. *Specialized Technician*, (Oct. 2018 - Present).
+	- Automation of WRF-CHEM runs for a operational forecast.
+	- Clean up and restructure of observational data.
 
-- 2012: Job title, Company
+# International Workshops
+- **Second Workshop on Climate Change, Variability and Modeling over Central America and Mexico**,ICTP, San José, Costa Rica, 14 - 18 Nov 2016
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Conference Presentations
+## Oral Presentations
+- **RAUGM (Nov. 2017)**, Cuantificación de la incertidumbre del pronóstico de la precipitación en modelos meteorológicos de mesoescala para la ciudad de Ensenada.
+- **OMMAC (Oct. 2014)**, Implementación y uso de un modelo RegCM4 para estudios de clima regional en México.
 
-- 2011: Job title, Company
+## Posters Presentations
+- **CICESE (Aug. 2017)**, Predicción del tiempo de sub mesoescala, mejorado con ensambles.
+- **RAUGM (Oct. 2016)**, Predicción del tiempo de sub mesoescala, mejorado con ensambles.
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Technical
+- Languages: Python, Bash, GrADS, NCL, \LaTeX
+- Operating Systems: GNU/Linux, Mac OS, Windows
+- Miscellaneous: Experience with cluster ambients, numerical model output (NetCDF, GRIB), version control (git, svn), trac
 
-- 2008: Job title, Company
+# Languages
+- **Spanish**, Mother tongue
+- **English**, Intermediate
+	- 83 score TOEFL IBT
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Nationality
+- **Mexican**
 
-\newpage
+# References
+[//]: - Markus Sebastian Gross (Thesis advisor)
+[//]: 	- \faMail \href{mailto:mgross@cicese.mx}{mgross@cicese.mx}
+[//]: 	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3432}{Homepage}
 
-### Publications
+[//]: - Julio Sheinbaum Pardo
+[//]:	- \faMail \href{mailto:julios@cicese.mx}{julios@cicese.mx}
+[//]:	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/871}{Homepage}
 
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-
-### Selected presentations
-
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-
-### Memberships and committees
-
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-
-### Awards and supporting information
-
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-
-### References
+[//]:- Cuauhtemoc Turrent Thompson (Actual employer)
+[//]:	- \faMail \href{mailto:	turrentc@cicese.mx}{turrentc@cicese.mx}
+[//]:	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3421}{Homepage}
 
 Available on request.
-
-
-
-
 

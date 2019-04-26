@@ -3,7 +3,22 @@
 
 \documentclass[11pt, a4paper]{article}
 \usepackage{fontspec} 
+\usepackage{bbding}
+\usepackage{fontawesome}
+\usepackage{fontspec}
+\newfontfamily{\FA}{FontAwesome}
+\usepackage{hyperref}
+\usepackage[document]{ragged2e}
+\hyphenpenalty=10000
+\hbadness=10000
 
+\def\faGithub{\FA \symbol{"F09B} } % Github
+\def\faPhone{{\FA \symbol{"F095}} } % Phone
+\def\faMail{{\FA \symbol{"F0E0}} } % Mail
+\def\faMap{{\FA \symbol{"F041}} } % Map
+\def\faHStar{{\FA \symbol{"F089}} } % Map
+\def\faStar{{\FA \symbol{"F105}} } % Map
+\def\faFF{{\FA \symbol{"F269}} } % Firefox
 % DOCUMENT LAYOUT
 \usepackage[margin=1.2in]{geometry} 
 \setlength\parindent{0in}
@@ -39,13 +54,15 @@
 \title{$title$} % name $if(title)$$title$$endif$
 \date{$if(date)$$date$\\$endif$} % Leave blank to remove the date
 \author{$if(website)$$website$\\\\$endif$
-$street$ \textbar{} $city$, $postcode$\\ %Put your address here
-$phone$ \textbar{} $email$ } % put your contact information here
+$street$, $city$, $postcode$\\ %Put your address here
+% $phone$ \textbar{} $email$ } % put your contact information here
+$phone$ \\ $email$ } % put your contact information here
 
 % BEGIN DOCUMENT
 \begin{document}
 \maketitle
 \begin{raggedright}
+	\justify
 $body$
 \end{raggedright}
 \end{document}

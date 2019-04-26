@@ -1,5 +1,5 @@
 PY=python
-PANDOC=pandoc
+PANDOC=~/.local/bin/pandoc
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/source
@@ -23,7 +23,7 @@ help:
 	@echo 'get templates from: https://github.com/jgm/pandoc-templates			  '
 
 pdf:
-	pandoc -s -f markdown-auto_identifiers \
+	~/.local/bin/pandoc -s -f markdown-auto_identifiers \
 	"$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/cv.pdf" \
 	--template="$(STYLEDIR)/template.tex" \
