@@ -53,10 +53,10 @@ date: Last update - \today
 
 # Technical
 - **Numerical models**: RegCM4, WRF, WRF-CHEM, WRFDA, HWRF
-- **Languages**: Python, bash, GrADS, NCL, nco, cdo
+- **Languages**: Python, bash, GrADS, NCL, nco, cdo, Fortran
 - **Operating Systems**: GNU/Linux, Mac OS, Windows
-- **Miscellaneous**: Experience with cluster ambients, compile and setup numerical models (listed above), use of output data of numerical models (NetCDF, GRIB), version control (git, svn), trac 
-- **Others**: \LaTeX, Markdown, Docker
+- **Miscellaneous**: Experience with cluster ambients, compile and setup numerical models (listed above), use of output data of numerical models (NetCDF, GRIB), version control (git, svn), trac
+- **Others**: \LaTeX, Markdown, Docker 
 
 # Nationality
 - **Mexican**
