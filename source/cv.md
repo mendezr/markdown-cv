@@ -1,17 +1,13 @@
 ---
 title: 'Raúl Fernando Méndez Turrubiates'
 website:
-street: \faMap Avenida I, No. 146-1
+street: \faMap 
 city: Ensenada, México
 postcode: 22760
 phone: \faPhone +52 (1) 228 1649643
 email: \faMail \href{mailto:raul.mturrubiates@gmail.com}{raul.mturrubiates@gmail.com}
 date: Last update - \today
 ...
-
-# Personal summary
-
-> I am an M.Sc in Physical Oceanography with a B.Sc in Atmospheric Science, my interests are the modeling of the atmosphere (climate/weather), data analysis, recently trying to learn machine learning algorithms. Others activities I enjoy are programing in python, use and promote open source projects.
 
 # Education - Degrees
 
@@ -41,6 +37,7 @@ date: Last update - \today
 - **Consorcio de Investigación del Golfo de México (CIGoM)**. *Specialized Technician*, (Oct. 2018 - Present).
 	- Automation of WRF-CHEM runs for a operational forecast.
 	- Clean up and restructure of observational data.
+	- Install and setup of HWRF runs.
 
 # International Workshops
 - **Second Workshop on Climate Change, Variability and Modeling over Central America and Mexico**,ICTP, San José, Costa Rica, 14 - 18 Nov 2016
@@ -55,30 +52,30 @@ date: Last update - \today
 - **RAUGM (Oct. 2016)**, Predicción del tiempo de sub mesoescala, mejorado con ensambles.
 
 # Technical
-- Languages: Python, Bash, GrADS, NCL, \LaTeX
-- Operating Systems: GNU/Linux, Mac OS, Windows
-- Miscellaneous: Experience with cluster ambients, numerical model output (NetCDF, GRIB), version control (git, svn), trac
+- **Numerical models**: RegCM4, WRF, WRF-CHEM, WRFDA, HWRF
+- **Languages**: Python, bash, GrADS, NCL, nco, cdo
+- **Operating Systems**: GNU/Linux, Mac OS, Windows
+- **Miscellaneous**: Experience with cluster ambients, compile and setup numerical models (listed above), use of output data of numerical models (NetCDF, GRIB), version control (git, svn), trac 
+- **Others**: \LaTeX, Markdown, Docker
+
+# Nationality
+- **Mexican**
 
 # Languages
 - **Spanish**, Mother tongue
 - **English**, Intermediate
 	- 83 score TOEFL IBT
 
-# Nationality
-- **Mexican**
-
 # References
 [//]: - Markus Sebastian Gross (Thesis advisor)
 [//]: 	- \faMail \href{mailto:mgross@cicese.mx}{mgross@cicese.mx}
 [//]: 	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3432}{Homepage}
-
 [//]: - Julio Sheinbaum Pardo
-[//]:	- \faMail \href{mailto:julios@cicese.mx}{julios@cicese.mx}
-[//]:	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/871}{Homepage}
-
-[//]:- Cuauhtemoc Turrent Thompson (Actual employer)
-[//]:	- \faMail \href{mailto:	turrentc@cicese.mx}{turrentc@cicese.mx}
-[//]:	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3421}{Homepage}
+[//]:    - \faMail \href{mailto:julios@cicese.mx}{julios@cicese.mx}
+[//]:    - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/871}{Homepage}
+[//]: - Cuauhtemoc Turrent Thompson (Actual employer)
+[//]:    - \faMail \href{mailto:	turrentc@cicese.mx}{turrentc@cicese.mx}
+[//]:    - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3421}{Homepage}
 
 Available on request.
 
