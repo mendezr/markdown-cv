@@ -67,15 +67,15 @@ date: Last update - \today
 	- 83 score TOEFL IBT
 
 # References
-[//]: - Markus Sebastian Gross (Thesis advisor)
-[//]: 	- \faMail \href{mailto:mgross@cicese.mx}{mgross@cicese.mx}
-[//]: 	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3432}{Homepage}
-[//]: - Julio Sheinbaum Pardo
-[//]:    - \faMail \href{mailto:julios@cicese.mx}{julios@cicese.mx}
-[//]:    - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/871}{Homepage}
-[//]: - Cuauhtemoc Turrent Thompson (Actual employer)
-[//]:    - \faMail \href{mailto:	turrentc@cicese.mx}{turrentc@cicese.mx}
-[//]:    - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3421}{Homepage}
+- Markus Sebastian Gross (Thesis advisor)
+	- \faMail \href{mailto:mgross@cicese.mx}{mgross@cicese.mx}
+	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3432}{Homepage}
+- Julio Sheinbaum Pardo
+   - \faMail \href{mailto:julios@cicese.mx}{julios@cicese.mx}
+   - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/871}{Homepage}
+- Cuauhtemoc Turrent Thompson (Actual employer)
+   - \faMail \href{mailto:	turrentc@cicese.mx}{turrentc@cicese.mx}
+   - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3421}{Homepage}
 
 Available on request.
 
