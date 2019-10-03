@@ -1,11 +1,11 @@
 ---
 title: 'Raúl Fernando Méndez Turrubiates'
 website:
-street: \faMap 
+street:  
 city: Ensenada, México
 postcode: 22760
-phone: \faPhone +52 (1) 228 1649643
-email: \faMail \href{mailto:raul.mturrubiates@gmail.com}{raul.mturrubiates@gmail.com}
+phone:  +52 (1) 228 1649643
+email:  \href{mailto:raul.mturrubiates@gmail.com}{raul.mturrubiates@gmail.com}
 date: Last update - \today
 ...
 
@@ -13,7 +13,7 @@ date: Last update - \today
 
 - **M.Sc. Physical Oceanography**, Centro de Investigación Científica Superior de Ensenada (CICESE) (2015 - 2018)
 	- High Resolution (sub 1 km) weather forecasting enhanced with ensembles.
-- **B.A. Atmospheric Science**, Universidad Veracruzana (2013 - 2015)
+- **B.S. Atmospheric Science**, Universidad Veracruzana (2013 - 2015)
 	- Implementation and use of a RegCM model for climate studies in Mexico.
 
 # Distinction & Awards
@@ -52,8 +52,8 @@ date: Last update - \today
 - **RAUGM (Oct. 2016)**, Predicción del tiempo de sub mesoescala, mejorado con ensambles.
 
 # Technical
-- **Numerical models**: RegCM4, WRF, WRF-CHEM, WRFDA, HWRF
 - **Languages**: Python, bash, GrADS, NCL, nco, cdo, Fortran
+- **Numerical models**: RegCM4, WRF, WRF-CHEM, WRFDA, HWRF
 - **Operating Systems**: GNU/Linux, Mac OS, Windows
 - **Miscellaneous**: Experience with cluster ambients, compile and setup numerical models (listed above), use of output data of numerical models (NetCDF, GRIB), version control (git, svn), trac
 - **Others**: \LaTeX, Markdown, Docker 
@@ -68,14 +68,14 @@ date: Last update - \today
 
 # References
 [//]: - Markus Sebastian Gross (Thesis advisor)
-[//]: 	- \faMail \href{mailto:mgross@cicese.mx}{mgross@cicese.mx}
-[//]: 	- \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3432}{Homepage}
+[//]: 	-  \href{mailto:mgross@cicese.mx}{mgross@cicese.mx}
+[//]: 	-  \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3432}{Homepage}
 [//]: - Julio Sheinbaum Pardo
-[//]:    - \faMail \href{mailto:julios@cicese.mx}{julios@cicese.mx}
-[//]:    - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/871}{Homepage}
+[//]:    -  \href{mailto:julios@cicese.mx}{julios@cicese.mx}
+[//]:    -  \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/871}{Homepage}
 [//]: - Cuauhtemoc Turrent Thompson (Actual employer)
-[//]:    - \faMail \href{mailto:	turrentc@cicese.mx}{turrentc@cicese.mx}
-[//]:    - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3421}{Homepage}
+[//]:    -  \href{mailto:	turrentc@cicese.mx}{turrentc@cicese.mx}
+[//]:    -  \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3421}{Homepage}
 
 Available on request.
 
