@@ -77,5 +77,4 @@ date: Last update - \today
    - \faMail \href{mailto:	turrentc@cicese.mx}{turrentc@cicese.mx}
    - \faFF \href{https://posgrados.cicese.mx/posgrado/ficha_academicos/3421}{Homepage}
 
-Available on request.
-
+ [comment]: Available on request.
