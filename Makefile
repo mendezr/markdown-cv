@@ -23,8 +23,8 @@ help:
 	@echo 'get templates from: https://github.com/jgm/pandoc-templates			  '
 
 pdf:
-	#~/.local/bin/pandoc -s -f markdown-auto_identifiers 
-	/usr/local/bin/pandoc -s -f markdown-auto_identifiers \
+	# ~/.local/bin/pandoc -s -f markdown-auto_identifiers 
+	$(PANDOC) -s -f markdown-auto_identifiers \
 	"$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/cv.pdf" \
 	--template="$(STYLEDIR)/template.tex" \
