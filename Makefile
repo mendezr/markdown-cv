@@ -1,5 +1,6 @@
 PY=python
-PANDOC=~/.local/bin/pandoc
+PANDOC=/usr/local/bin/pandoc
+# PANDOC=~/.local/bin/pandoc
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/source
